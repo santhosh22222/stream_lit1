@@ -1,6 +1,13 @@
 # Streamlit Complete App
 
 A reference Streamlit application that demonstrates all major UI components alongside a MongoDB-connected task manager — everything in a single file.
+# screenshots
+<img width="1868" height="905" alt="image" src="https://github.com/user-attachments/assets/0520b313-ca96-4739-a3ad-79ec14788a61" />
+<img width="1646" height="880" alt="image" src="https://github.com/user-attachments/assets/fd82d5cc-ccec-4729-8c38-e0702894f17e" />
+<img width="1891" height="940" alt="image" src="https://github.com/user-attachments/assets/11f86f24-a75e-485c-b308-c13ef4934d37" />
+<img width="1874" height="898" alt="image" src="https://github.com/user-attachments/assets/66cc7434-9987-4901-8f24-5221f0488b22" />
+
+
 
 ## Features
 
